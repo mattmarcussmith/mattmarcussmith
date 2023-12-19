@@ -1,12 +1,8 @@
-![mtt](https://github.com/mattmarcussmith/mattmarcussmith/assets/58535096/d2db5919-d873-464a-9e9c-8a1edd6ce618)
-
 
 <h1 align="center">Hi 👋, I'm Matthew Smith</h1>
-<h3 align="center">A passionate Frontend Developer Based out of Austin, Texas</h3>
+<h3 align="center">Frontend React Developer Based out of Austin, Texas</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattmarcussmith" alt="mattmarcussmith" /></a> </p>
-
-- 🔭 I’m currently working on **Dashboard & digital hacker portfolio**
+- 🔭 I’m currently working on **Dashboards, Charts & Digital Portfolio**
 
 - 🌱 I’m currently learning **React Advanced Topics**
 
@@ -28,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattmarcussmith&show_icons=true&locale=en&layout=compact" alt="mattmarcussmith" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattmarcussmith&show_icons=true&locale=en" alt="mattmarcussmith" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattmarcussmith&" alt="mattmarcussmith" /></p>
