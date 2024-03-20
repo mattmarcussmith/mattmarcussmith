@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Matthew Smith</h1>
+<h1 align="center">Hi, I'm Matthew Smith</h1>
 <h3 align="center">Frontend React Developer Based out of Austin, Texas</h3>
 
-- 🔭 I’m currently working on **Dashboards, Charts & Digital Portfolio**
+- 🔭 I’m currently working on ** ReactJS Dashboards, Charts & ASP .NET applications**
 
 - 🌱 I’m currently learning **React Advanced Topics**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **matt.marcus.smith@gmail.com**
 
-- 📄 My website and CV download [https://matthewmsmithportfolio.com/](https://matthewmsmithportfolio.com/)
+- 📄 My website and CV download [https://mattsmithportfolio.com/](https://mattsmithportfolio.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
