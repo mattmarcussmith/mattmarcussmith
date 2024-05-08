@@ -1,10 +1,12 @@
 # 💼 Matthew Smith 
 
-**`Backend Software Engineer (C#/APIs/Azure)` **
-I'm an experienced ASP.NET API developer focused on architecting and implementing microservices solutions. My expertise lies in translating business requirements into efficient functional pipelines,ensuring seamless communication and data flow within complex systems. I have a strong foundation in building scalable and robust APIs. I thrive on delivering solutions that drive business value and enhance overall performance.
----
-### 👨🏻‍💻 Languages and Tools
+`Backend Software Engineer (C#/APIs/Azure)` <br />
 
+I'm an experienced ASP.NET API developer focused on architecting and implementing microservices solutions. My expertise lies in translating business requirements into efficient functional pipelines, ensuring seamless communication and data flow within complex systems. I have a foundation in building scalable and robust APIs. I thrive on delivering solutions that drive business value and enhance overall performance.
+
+---
+
+### Languages and Tools
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg"  />
@@ -17,19 +19,33 @@ I'm an experienced ASP.NET API developer focused on architecting and implementin
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+<br/>
 
-#
-<!--
-<details>
-<summary> <h3>Matt Smith's Path to Software Engineering</h3> </summar>
-I started my academic journey as a general studies major, feeling a bit lost and uncertain about my future. Then, I stumbled upon an introductory Python programming course. While I didn't immediately fall in love with coding, I continued exploring different courses and majors, hoping to find my passion.
+---
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattmarcussmith&theme=gruvbox&show_icons=true)
 
-After completion of my Associates of Arts in General Studies and graduating with honors. I still had no direaction, I enrolled in a Treehouse course on frontend development. Completing the program was a turning point for me. Although I enjoyed it, I still felt like something was missing.
+---
 
-That's when I discovered C# programming. Learning about models, controllers, UML diagrams, and microservices opened my eyes to the incredible potential of software development. I was hooked.
+### 👨🏻‍🦱 My Coding Journey 
 
-Now, I'm thrilled to say that I've graduated from Western Governors University with a Bachelor of Science in Software Engineering, specializing in C#. This journey has not only given me valuable technical skills but has also ignited a deep passion for the world of software engineering.
+<section>
+<Details>
+  I started my academic journey as a general studies major, feeling a bit lost and uncertain about my future. Then, I stumbled upon an introductory Python p
+Starting my academic journey as a general studies major, I was unsure of where it would lead. Then, I stumbled upon an introductory Python programming course, which piqued my interest, though not immediately.
 
-Thank you for taking the time to learn about my journey and the person behind the computer screen.
--->
-[website]: https://mattmsmithportfoliio.com
+Despite graduating with honors and completing my Associate of Arts in General Studies, I still felt a bit lost. Seeking clarity, I decided to explore further and enrolled in a Treehouse frontend development course. While it was enjoyable, I found myself searching for something more.
+
+That's when I discovered C# programming. Learning about models, controllers, UML diagrams, and microservices felt like finding a missing piece of the puzzle.
+
+I recently Graduated from Western Governors University with a Bachelor of Science in Software Engineering, with a C# concentration. 
+It has been an incredible journey. It not only equipped me with technical skills but also ignited my passion for software development.
+
+Thanks for taking the time to learn about my journey.
+
+</section>
+
+--- 
+
+### 💻 My Portfolio Website
+
+[website]: https://mattsmithportfolio.com
