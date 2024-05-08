@@ -21,7 +21,6 @@ I'm an experienced ASP.NET API developer focused on architecting and implementin
 #
 <!--
 <details>
-
 <summary> <h3>Matt Smith's Path to Software Engineering</h3> </summar>
 I started my academic journey as a general studies major, feeling a bit lost and uncertain about my future. Then, I stumbled upon an introductory Python programming course. While I didn't immediately fall in love with coding, I continued exploring different courses and majors, hoping to find my passion.
 
