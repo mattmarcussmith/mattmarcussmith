@@ -48,4 +48,4 @@ Thanks for taking the time to learn about my journey.
 
 ### 💻 My Portfolio Website
 
-[website]: https://mattsmithportfolio.com
+[website]: (https://mattsmithportfolio.com)
