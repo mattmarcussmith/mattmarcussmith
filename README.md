@@ -46,5 +46,5 @@ Thanks for taking the time to learn about my journey.
 
 --- 
 
-### [💻 My Portfolio Website](http://www.mattsmithportfolio.com)){:target="_blank"}
+### [💻 Matt's Portfolio Website](http://www.mattsmithportfolio.com)
 
