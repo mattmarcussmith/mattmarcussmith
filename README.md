@@ -46,6 +46,5 @@ Thanks for taking the time to learn about my journey.
 
 --- 
 
-###
-<a href="http://www.mattsmithportfolio.com" target="_blank">💻 My Portfolio Website</a>
+### [💻 My Portfolio Website](http://www.mattsmithportfolio.com)){:target="_blank"}
 
