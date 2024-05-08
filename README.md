@@ -30,8 +30,7 @@ I'm an experienced ASP.NET API developer focused on architecting and implementin
 
 <section>
 <Details>
-  I started my academic journey as a general studies major, feeling a bit lost and uncertain about my future. Then, I stumbled upon an introductory Python p
-Starting my academic journey as a general studies major, I was unsure of where it would lead. Then, I stumbled upon an introductory Python programming course, which piqued my interest, though not immediately.
+  I started my academic journey as a general studies major, feeling a bit lost and uncertain where it would lead. Then, I stumbled upon an introductory Python programming course, which piqued my interest, though not immediately.
 
 Despite graduating with honors and completing my Associate of Arts in General Studies, I still felt a bit lost. Seeking clarity, I decided to explore further and enrolled in a Treehouse frontend development course. While it was enjoyable, I found myself searching for something more.
 
