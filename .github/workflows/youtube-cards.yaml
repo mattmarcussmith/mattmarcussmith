@@ -15,4 +15,4 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: https://www.instagram.com/mattsmithcodes/
+          channel_id: https://www.instagram.com/p/C7IK1jds5cH/
