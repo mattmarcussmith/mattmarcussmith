@@ -45,7 +45,6 @@ Thanks for taking the time to learn about my journey.
 
 --- 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 ---
