@@ -44,19 +44,7 @@ Thanks for taking the time to learn about my journey.
 </section>
 
 --- 
-### 📺 Software Developer Tips
 
-<div style="display: flex; justify-content: space-around;">
-  <!-- First Instagram Video Thumbnail -->
-  <a href="https://www.instagram.com/p/C7IK1jds5cH/" style="text-decoration: none;">
-    <img src="/assets/screenshot1.png" alt="Instagram Video 1" style="width: 400px; height: 320px; object-fit: contain; border-radius: 50px;">
-  </a>
-  
-  <!-- Second Instagram Video Thumbnail -->
-  <a href="https://www.instagram.com/p/C7FdMX7PKII/" style="text-decoration: none;">
-    <img src="/assets/screenshot2.png" alt="Instagram Video 2" style="width: 400px; height: 320px; object-fit: contain; border-radius: 50px;">
-  </a>
-  
 </div>
 
 
