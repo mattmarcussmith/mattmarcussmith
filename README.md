@@ -2,7 +2,7 @@
 
 `Backend Software Engineer (C#/APIs/Azure)` <br />
 
-I'm an experienced ASP.NET API developer focused on architecting and implementing microservices solutions. My expertise lies in translating business requirements into efficient functional pipelines, ensuring seamless communication and data flow within complex systems. I have a foundation in building scalable and robust APIs. I thrive on delivering solutions that drive business value and enhance overall performance.
+Backend developer with a Bachelor of Science in Software Engineering from Western Governors University. Specialized in building web APIs with ASP.NET Core, focusing on CRUD operations, authentication, authorization, and implementing design patterns like Repository, Service, and Dependency Injection. Experienced in team collaboration, optimizing performance, and ensuring security in backend services. Proficient in database management and version control. Passionate about delivering scalable, high-performance solutions and currently seeking full-time employment in .NET development.
 
 ---
 
