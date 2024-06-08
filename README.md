@@ -34,7 +34,7 @@ Backend developer with a Bachelor of Science in Software Engineering from Wester
 
 Despite graduating with honors and completing my Associate of Arts in General Studies, I still felt a bit lost. Seeking clarity, I decided to explore further and enrolled in a Treehouse frontend development course. While it was enjoyable, I found myself searching for something more.
 
-That's when I discovered C# programming. Learning about models, controllers, UML diagrams, and microservices felt like finding a missing piece of the puzzle.
+That's when I discovered C# programming. Learning about models, controllers, repositories, UML, and ERD diagrams, felt like finding a missing piece of the puzzle.
 
 I recently Graduated from Western Governors University with a Bachelor of Science in Software Engineering, with a C# concentration. 
 It has been an incredible journey. It not only equipped me with technical skills but also ignited my passion for software development.
