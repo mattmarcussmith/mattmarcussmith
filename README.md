@@ -2,7 +2,7 @@
 
 `Backend Software Engineer (C#/APIs/Azure)` <br />
 
-I have a Bachelor of Science in Software Engineering with a concentration in C# from Western Governors University. I specialized in building web APIs with ASP.NET Core, focusing on CRUD operations, authentication, authorization, and implementing design patterns like Repository, Service, and Dependency Injection. 
+I have a Bachelor of Science in Software Engineering with a concentration in C# from Western Governors University. I specialize in building web APIs with ASP.NET Core, focusing on CRUD operations, authentication, authorization, and implementing design patterns like Repository, Service, and Dependency Injection. 
 
 ---
 
