@@ -2,7 +2,7 @@
 
 `Backend Software Engineer (C#/APIs/Azure)` <br />
 
-Backend developer with a Bachelor of Science in Software Engineering from Western Governors University. Specialized in building web APIs with ASP.NET Core, focusing on CRUD operations, authentication, authorization, and implementing design patterns like Repository, Service, and Dependency Injection. Experienced in team collaboration, optimizing performance, and ensuring security in backend services. Proficient in database management and version control. Passionate about delivering scalable, high-performance solutions and currently seeking full-time employment in .NET development.
+I have a Bachelor of Science in Software Engineering with a concentration in C# from Western Governors University. I specialized in building web APIs with ASP.NET Core, focusing on CRUD operations, authentication, authorization, and implementing design patterns like Repository, Service, and Dependency Injection. 
 
 ---
 
