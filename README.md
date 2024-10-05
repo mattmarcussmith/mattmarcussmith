@@ -2,7 +2,7 @@
 
 `FullStack Software Engineer (MVC/Blazor/SQL/Azure)` <br />
 
-I have a Bachelor of Science in Software Engineering with a concentration in C# from Western Governors University. I currently work for VSolvit and build software for government entities. 
+I have a Bachelor of Science in Software Engineering with a concentration in C# from Western Governors University. I currently work for VSolvit where I build software for government entities. 
 
 ---
 
