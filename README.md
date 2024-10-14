@@ -1,8 +1,8 @@
-# 💼 Matthew Smith 
+# Matthew Smith 
 
-`FullStack Software Engineer (MVC/Blazor/SQL/Azure)` <br />
+`.Net Software Engineer` <br />
 
-I have a Bachelor of Science in Software Engineering with a concentration in C# from Western Governors University. I currently work for VSolvit where I build software for government entities. 
+Application Engineer at VSolvit, working on government systems. I specialize in crafting secure, high-performance applications that keep critical operations stable. Navigating through complex architectures, I build solutions that are precise and built for the future.
 
 ---
 
