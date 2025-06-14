@@ -1,4 +1,4 @@
-# 💻 Matthew Smith — Blazor WebAssembly Engineer
+# 💻 Matthew Smith — .NET Software Engineer
 🚀 **Engineering High-Performance Blazor WebAssembly Applications**  
 I specialize in **secure, scalable Blazor WebAssembly (WASM) applications**, building production-grade systems for government operations. My focus is on clean architecture, performance, and long-term maintainability.
 
