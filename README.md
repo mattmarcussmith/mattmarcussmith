@@ -11,7 +11,7 @@ My work emphasizes <b>clean architecture, authentication, validation, and mainta
 <img src="https://img.shields.io/badge/🌍_Environments-Dev_|_Staging_|_Prod-0A7E8C?style=for-the-badge&logo=azuredevops&logoColor=white"><br>
 <img src="https://img.shields.io/badge/🔐_Security-JWT_|_OAuth|_Token_Flows-1E90FF?style=for-the-badge&logo=auth0&logoColor=white"><br>
 <img src="https://img.shields.io/badge/📜_Logging-Serilog_|_ILogger_|_Structured_Logs-4E9A06?style=for-the-badge&logo=serilog&logoColor=white"><br>
-<img src="https://img.shields.io/badge/🧪_Validation-DataAnnotations_|_FluentValidation_|_Error_Handling-2560E0?style=for-the-badge&logo=testing-library&logoColor=white"><br>
+<img src="https://img.shields.io/badge/🧪_Validation-DataAnnotations_|_Error_Handling-2560E0?style=for-the-badge&logo=testing-library&logoColor=white"><br>
 <img src="https://img.shields.io/badge/🔄_Source_Control-Git_|_Branching_Strategies_|_Versioning-F05032?style=for-the-badge&logo=git&logoColor=white"><br>
 <img src="https://img.shields.io/badge/🚀_Architecture-Design_|_DTOs_|_Strong_Typing_|_ViewModels_|_SOLID_Principles-0A7E8C?style=for-the-badge&logo=azuredevops&logoColor=white"><br>
 <img src="https://img.shields.io/badge/📡_API_Tooling-Postman_|_Swagger_|_OpenAPI-EF5B25?style=for-the-badge&logo=postman&logoColor=white"><br>
