@@ -1,6 +1,6 @@
-<div align="center" style=" background-color: #1f1f1f; border: 1px solid #333; border-radius: 10px; padding: 25px; width: 95%; box-shadow: 0 0 10px rgba(0,0,0,0.5); line-height: 1.8; "> <h3>Matthew Smith — Software Engineer</h3>
+<div align="center" style=" background-color: #1f1f1f; border: 1px solid #333; border-radius: 10px; padding: 25px; width: 95%; box-shadow: 0 0 10px rgba(0,0,0,0.5); line-height: 1.8; "> <h3>Matthew Smith — Backend C# Software Engineer</h3>
 
-I develop <b>full-stack applications</b> using modern .NET backend services and interactive WebAssembly<br>
+I develop <b>full-stack applications</b> using modern .NET backend services and interactive WebAssembly<br> However, my primary interest is in ASP .NET Web API development.
 <b>API design → business logic → client experience</b>.<br>
 My work emphasizes <b>clean architecture, authentication, validation, and maintainability throughout the entire application lifecycle.
 
