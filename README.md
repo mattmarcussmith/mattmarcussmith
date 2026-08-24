@@ -2,18 +2,18 @@
 
 <img
 width="100%"
-alt="Data engineering architecture"
-src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:0F172A,55:1E293B,100:14532D&text=DATA%20ENGINEERING&fontColor=F8FAFC&fontSize=36&fontAlignY=45&desc=PIPELINES%20%E2%80%A2%20LAKEHOUSE%20%E2%80%A2%20MODELING%20%E2%80%A2%20QUALITY%20%E2%80%A2%20GOVERNANCE&descSize=14&descAlignY=72"
+alt="Full Stack .NET Engineering"
+src="https://capsule-render.vercel.app/api?type=rect&height=105&color=0:0F172A,55:1E293B,100:14532D&text=FULL%20STACK%20.NET%20ENGINEERING&fontColor=F8FAFC&fontSize=34&fontAlignY=45&desc=C%23%20%E2%80%A2%20ASP.NET%20CORE%20%E2%80%A2%20BLAZOR%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20SQL%20%E2%80%A2%20AZURE&descSize=14&descAlignY=72"
 />
 
 <img
-alt="Data engineering principles animation"
-src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=1800&pause=500&color=86EFAC&center=true&vCenter=true&repeat=true&width=960&height=75&lines=INGEST+%E2%86%92+VALIDATE+%E2%86%92+TRANSFORM+%E2%86%92+MODEL+%E2%86%92+SERVE;RAW+%E2%86%92+TRUSTED+%E2%86%92+BUSINESS-READY;BUILD+FOR+QUALITY%2C+LINEAGE%2C+AND+RELIABILITY"
+alt="Full stack engineering animation"
+src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=1800&pause=500&color=86EFAC&center=true&vCenter=true&repeat=true&width=960&height=75&lines=FRONTEND+%E2%86%92+API+%E2%86%92+APPLICATION+LOGIC+%E2%86%92+DATA;DESIGN+%E2%86%92+IMPLEMENT+%E2%86%92+TEST+%E2%86%92+DEPLOY;MAINTAINABLE+%E2%80%A2+RELIABLE+%E2%80%A2+PRODUCTION-READY"
 />
 
-### Matthew Smith · Data Engineer
+### Matthew Smith · Full Stack .NET Software Engineer
 
-`Python · SQL · Spark · Lakehouse · ETL/ELT · Data Modeling`
+`C# · .NET · ASP.NET Core · Blazor · REST APIs · SQL · Azure`
 
 <a href="https://matthewsmithsoftware.com">
   <img src="https://img.shields.io/badge/Portfolio-matthewsmithsoftware.com-166534?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -27,221 +27,244 @@ src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18
 
 ---
 
-## `DATA ENGINEERING`
+## `PROFILE`
 
-I build data systems around durable engineering principles rather than a single platform.
+Full Stack .NET Software Engineer focused on the design and development of maintainable, production-ready applications across frontend, backend, API, and data-access layers.
 
-My focus is on moving data from raw operational sources into reliable, well-modeled, business-ready datasets.
+Primary areas of work include C#, ASP.NET Core, Blazor, REST APIs, Entity Framework Core, SQL, Azure, and service-oriented application architecture.
 
-```text id="lugmio"
-SOURCE DATA
+```text
+FRONTEND
     ↓
-INGEST
+API
     ↓
-VALIDATE
+APPLICATION LOGIC
     ↓
-STANDARDIZE
+DATA ACCESS
     ↓
-TRANSFORM
-    ↓
-MODEL
-    ↓
-SERVE
-```
-
-Core areas:
-
-* Data pipelines
-* ETL / ELT
-* Lakehouse architecture
-* Medallion architecture
-* Data modeling
-* SQL development
-* Python / PySpark
-* Data quality
-* Data lineage
-* Data governance
-* Orchestration
-* Observability
-* Incremental processing
-* Reliable data products
-
----
-
-## `MEDALLION ARCHITECTURE`
-
-<div align="center">
-
-<img
-alt="Medallion architecture animation"
-src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=19&duration=1500&pause=400&color=D4A72C&center=true&vCenter=true&width=940&height=65&lines=BRONZE+%E2%86%92+SILVER+%E2%86%92+GOLD;PRESERVE+%E2%86%92+REFINE+%E2%86%92+SERVE"
-/>
-
-</div>
-
-```text id="y59ne2"
-BRONZE
-Raw / source-aligned
-        ↓
-SILVER
-Validated / standardized / conformed
-        ↓
-GOLD
-Modeled / aggregated / business-ready
-```
-
-The principle is more important than the platform:
-
-**data quality and business meaning increase as data moves through the system.**
-
----
-
-## `ENGINEERING PRINCIPLES`
-
-```text id="nr94w4"
-01  Preserve source fidelity
-
-02  Define explicit schemas and contracts
-
-03  Validate before promoting data
-
-04  Make transformations deterministic
-
-05  Design pipelines for idempotency
-
-06  Separate raw, refined, and serving concerns
-
-07  Preserve lineage and operational metadata
-
-08  Make failures observable
-
-09  Design for safe reprocessing
-
-10  Model data around downstream consumption
-
-11  Treat data quality as part of the pipeline
-
-12  Build reusable data products
+DATABASE
 ```
 
 ---
 
-## `PLATFORM EXPERIENCE`
-
-I apply the same architectural principles across modern data platforms.
+## `CORE TECHNOLOGIES`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Databricks
+### Application Development
 
-* Lakehouse architecture
-* Medallion design
-* Delta Lake
-* Apache Spark
-* PySpark
-* Spark SQL
-* Notebook workflows
-* Data transformation
-* Incremental processing
-* Data quality patterns
+* C#
+* .NET
+* ASP.NET Core
+* Blazor
+* Blazor WebAssembly
+* Razor Components
+* HTML
+* CSS
 
 </td>
 
 <td width="50%" valign="top">
 
-### Microsoft Fabric
+### Backend and Integration
 
-* OneLake
-* Fabric Lakehouse
-* Delta tables
-* Data pipelines
-* Notebooks
-* Python / PySpark
-* Spark SQL
-* Medallion architecture
-* Data transformation
-* Serving and analytical layers
+* REST APIs
+* ASP.NET Core Web API
+* Microservices
+* JSON
+* OData
+* Web Services
+* Swagger / OpenAPI
+* External API integration
 
 </td>
 
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Databricks-Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Fabric-Data_Platform-5B5FC7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache_Spark-Distributed_Compute-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-
-</div>
-
 ---
 
-## `PYTHON + SQL`
+## `APPLICATION ARCHITECTURE`
 
 <div align="center">
 
 <img
-alt="Python and SQL animation"
-src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=1700&pause=450&color=93C5FD&center=true&vCenter=true&width=940&height=65&lines=PYTHON+FOR+PIPELINES+AND+TRANSFORMATION;SQL+FOR+MODELING%2C+VALIDATION%2C+AND+SERVING;SPARK+FOR+DISTRIBUTED+PROCESSING"
+alt="Application architecture animation"
+src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=19&duration=1500&pause=400&color=D4A72C&center=true&vCenter=true&width=940&height=65&lines=BLAZOR+%E2%86%92+ASP.NET+CORE+%E2%86%92+APPLICATION+SERVICES+%E2%86%92+DATA;FRONTEND+%E2%86%92+BACKEND+%E2%86%92+PERSISTENCE"
 />
 
 </div>
 
-```text id="om85gy"
-PYTHON / PYSPARK
-├── ingestion
-├── transformation
-├── validation
-├── automation
-└── distributed processing
+```text
+CLIENT
+    ↓
+BLAZOR / UI
+    ↓
+ASP.NET CORE API
+    ↓
+APPLICATION SERVICES
+    ↓
+ENTITY FRAMEWORK CORE
+    ↓
+SQL DATABASE
+```
 
-SQL
-├── transformation
-├── modeling
-├── aggregation
-├── validation
-└── analytical serving
+I favor clear separation of concerns between presentation, application logic, infrastructure, integrations, and persistence.
+
+---
+
+## `ENGINEERING PRINCIPLES`
+
+```text
+01  Maintain clear separation of concerns
+
+02  Write readable and maintainable code
+
+03  Apply object-oriented design appropriately
+
+04  Use SOLID principles where they improve maintainability
+
+05  Define explicit API contracts
+
+06  Isolate business logic from infrastructure concerns
+
+07  Validate inputs and application rules
+
+08  Prefer reusable components and services
+
+09  Design integrations with failure scenarios in mind
+
+10  Support observability and effective debugging
+
+11  Test critical application behavior
+
+12  Optimize for long-term maintainability
 ```
 
 ---
 
-## `DATA PLATFORM FOUNDATION`
+## `FRONTEND`
 
-```mermaid id="c5ab15"
-flowchart LR
-    A["Sources"] --> B["Ingestion"]
-    B --> C["Raw Data"]
-    C --> D["Validation + Transformation"]
-    D --> E["Conformed Data"]
-    E --> F["Business Models"]
-    F --> G["Analytics / BI / Applications"]
-
-    D --> Q["Quality"]
-    D --> L["Lineage"]
-    D --> O["Observability"]
+```text
+FRONTEND
+├── Blazor
+├── Blazor WebAssembly
+├── Razor Components
+├── HTML
+├── CSS
+├── Telerik UI
+└── API-driven interfaces
 ```
 
-Regardless of platform, I look for the same fundamentals:
-
-* clear contracts
-* reliable ingestion
-* reproducible transformations
-* scalable processing
-* governed storage
-* reusable models
-* trusted outputs
+My frontend work is primarily centered on .NET-based web applications and component-driven user interfaces integrated with backend services.
 
 ---
 
-## `DATA TOOLKIT`
+## `BACKEND`
+
+```text
+BACKEND
+├── C#
+├── .NET
+├── ASP.NET Core
+├── REST APIs
+├── Web API
+├── Microservices
+├── Application Services
+└── API Integration
+```
+
+My backend focus includes API development, application services, business logic, system integration, and relational data access.
+
+---
+
+## `DATA ACCESS`
+
+```text
+APPLICATION
+    ↓
+DATA ACCESS
+    ↓
+ENTITY FRAMEWORK CORE
+    ↓
+LINQ / SQL
+    ↓
+RELATIONAL DATABASE
+```
+
+Technologies include:
+
+* Entity Framework Core
+* LINQ
+* ADO.NET
+* SQL Server
+* PostgreSQL
+* SQL development
+* Relational database design
+
+---
+
+## `CLOUD + DELIVERY`
+
+```text
+SOURCE
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+DEPLOY
+  ↓
+OPERATE
+```
+
+Platform and delivery tooling:
+
+* Azure
+* Azure DevOps
+* Docker
+* Git
+* GitHub
+* IIS
+* Deployment workflows
+* Release management
+* Production support
+
+---
+
+## `AI INTEGRATION`
+
+I also work with AI-enabled application patterns within .NET systems.
+
+```text
+.NET APPLICATION
+      ↓
+AI SERVICE
+      ↓
+CONTEXT / DATA
+      ↓
+APPLICATION RESPONSE
+```
+
+Areas of interest include:
+
+* OpenAI APIs
+* Embeddings
+* Retrieval-Augmented Generation
+* Vector search
+* AI-assisted application workflows
+* API-based AI integration
+
+---
+
+## `TECHNICAL STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,azure,docker,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,azure,docker,git,github,vscode,html,css&theme=dark"/>
 
 </div>
 
@@ -252,9 +275,22 @@ Regardless of platform, I look for the same fundamentals:
 
 ### Languages
 
-Python
+C#
 SQL
-PySpark
+HTML
+CSS
+
+</td>
+
+<td width="33%" valign="top">
+
+### Frameworks
+
+.NET
+ASP.NET Core
+Blazor
+Entity Framework Core
+Razor Components
 
 </td>
 
@@ -262,18 +298,9 @@ PySpark
 
 ### Platforms
 
-Databricks
-Microsoft Fabric
 Azure
-Spark
-Delta Lake
-
-</td>
-
-<td width="33%" valign="top">
-
-### Databases
-
+Azure DevOps
+Docker
 SQL Server
 PostgreSQL
 
@@ -282,10 +309,6 @@ PostgreSQL
 </tr>
 </table>
 
-Supporting experience:
-
-`C# · .NET · Entity Framework Core · ADO.NET`
-
 ---
 
 ## `CURRENT FOCUS`
@@ -293,42 +316,40 @@ Supporting experience:
 <div align="center">
 
 <img
-alt="Current data engineering focus"
-src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=19&duration=1750&pause=450&color=86EFAC&center=true&vCenter=true&width=950&height=80&lines=LAKEHOUSE+ARCHITECTURE;MEDALLION+DATA+DESIGN;PYTHON+%2B+SQL+%2B+SPARK;QUALITY+%2B+LINEAGE+%2B+GOVERNANCE"
+alt="Current engineering focus"
+src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=19&duration=1750&pause=450&color=86EFAC&center=true&vCenter=true&width=950&height=80&lines=FULL+STACK+.NET;ASP.NET+CORE+%2B+BLAZOR;REST+APIs+%2B+SQL;AZURE+%2B+APPLICATION+ARCHITECTURE"
 />
 
 </div>
 
-Current areas of concentration:
+Current areas of focus:
 
-* Lakehouse architecture
-* Medallion architecture
-* Databricks
-* Microsoft Fabric
-* Python
-* PySpark
+* Full Stack .NET development
+* C#
+* ASP.NET Core
+* Blazor
+* REST APIs
+* Entity Framework Core
 * SQL
-* Apache Spark
-* Delta Lake
-* ETL / ELT
-* Data modeling
-* Data quality
-* Data lineage
-* Data governance
-* Pipeline orchestration
+* Microservices
+* Azure
+* Docker
+* Application architecture
+* API integration
+* AI-enabled applications
 
 ---
 
 <div align="center">
 
-### `BUILD TRUSTED DATA SYSTEMS.`
+### `FULL STACK .NET SOFTWARE ENGINEERING`
 
-`INGEST · REFINE · MODEL · GOVERN · SERVE`
+`DESIGN · IMPLEMENT · INTEGRATE · TEST · DEPLOY`
 
 <br/><br/>
 
 <a href="https://matthewsmithsoftware.com">
-  <img src="https://img.shields.io/badge/View_Data_Portfolio-matthewsmithsoftware.com-166534?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-matthewsmithsoftware.com-166534?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
