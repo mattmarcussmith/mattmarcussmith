@@ -24,9 +24,11 @@ MICROSOFT FABRIC &nbsp;&nbsp;·&nbsp;&nbsp; AZURE DATABRICKS &nbsp;&nbsp;·&nbsp
 
 ---
 
-### M I S S I O N
+### A B O U T
 
-Data Engineering Consultant at **Quisitive**. I design and build data platforms on Microsoft Fabric and Azure Databricks, turning raw operational data into trusted, analytics-ready datasets.
+Data engineer specializing in Microsoft Fabric. I design and build Lakehouse platforms and automated pipelines that turn raw operational data into trusted, analytics-ready datasets.
+
+I partner with stakeholders to define data requirements, assess existing environments, and deliver solutions built for quality, reliability, and maintainability.
 
 ---
 
@@ -36,8 +38,8 @@ Data Engineering Consultant at **Quisitive**. I design and build data platforms 
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="FABRIC_VERIFY_LINK">
-  <img src="assets/fabric-data-engineer.png" alt="Microsoft Certified: Fabric Data Engineer Associate" width="100%"/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/matthewmsmith/EC1D51A62089AD0F?sharingId=20BBBECC2D103AB">
+  <img src="./dp700.png" alt="Microsoft Certified: Fabric Data Engineer Associate" width="100%"/>
 </a>
 
 **Fabric Data Engineer Associate**<br/>
@@ -48,7 +50,7 @@ Data Engineering Consultant at **Quisitive**. I design and build data platforms 
 <td width="50%" align="center" valign="top">
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/matthewmsmith/55357FCCC9ED5312?sharingId=20BBBECC2D103AB">
-  <img src="assets/databricks-data-engineer.png" alt="Microsoft Certified: Azure Databricks Data Engineer Associate" width="100%"/>
+  <img src="./dp750.png" alt="Microsoft Certified: Azure Databricks Data Engineer Associate" width="100%"/>
 </a>
 
 **Azure Databricks Data Engineer Associate**<br/>
@@ -67,30 +69,48 @@ Data Engineering Consultant at **Quisitive**. I design and build data platforms 
 
 ---
 
-### C A P A B I L I T I E S
+### T O O L K I T
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Fabric-000000?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_Databricks-000000?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-000000?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delta_Lake-000000?style=flat-square&logo=delta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Factory-000000?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=databricks&logoColor=white"/>
+
+<br/><br/>
+
+<sub>
+LAKEHOUSE &nbsp;·&nbsp; MEDALLION ARCHITECTURE &nbsp;·&nbsp; PIPELINE ORCHESTRATION &nbsp;·&nbsp; API + ERP INTEGRATION &nbsp;·&nbsp; DATA QUALITY
+</sub>
+
+</div>
+
+---
+
+### A R C H I T E C T U R E
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**PLATFORM**<br/>
-Microsoft Fabric<br/>
-Azure Databricks<br/>
-Lakehouse<br/>
-Data Factory Pipelines<br/>
-Notebooks<br/>
-Apache Spark · Delta Lake
+**BRONZE**<br/>
+<sub>Raw data landed from ERP systems, APIs, and files, kept as-is for traceability</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-**ENGINEERING**<br/>
-Medallion Architecture<br/>
-Data Ingestion + Transformation<br/>
-Pipeline Orchestration<br/>
-ERP + OData API Integration<br/>
-Azure Key Vault<br/>
-Data Quality + Reliability
+**SILVER**<br/>
+<sub>Cleaned, validated, and conformed to shared definitions</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**GOLD**<br/>
+<sub>Business-ready models for analytics and reporting</sub>
 
 </td>
 </tr>
@@ -98,42 +118,34 @@ Data Quality + Reliability
 
 ---
 
-### F L I G H T &nbsp; P R O F I L E
+### E X P E R I E N C E
 
-```text
-SOURCE          BRONZE          SILVER          GOLD            DELIVERY
-ERP · APIs  ──▶  raw landed  ──▶  cleaned     ──▶  analytics   ──▶  reporting
-                                  validated        ready
-```
-
----
-
-### M I S S I O N &nbsp; L O G
-
-**Data Engineering Consultant** — Quisitive<br/>
-<sub>OCT 2026 — PRESENT</sub>
-
-- End-to-end Microsoft Fabric solutions: Lakehouse, Data Factory pipelines and transformations
-- Client discovery, environment assessment and platform architecture
-
-**Fabric Data Engineer II** — VSolvit<br/>
-<sub>APR 2025 — OCT 2026</sub>
-
-- Medallion Architecture in Microsoft Fabric with notebooks
-- Automated ingestion from OData APIs with delivery through the Google Drive API
-- Secrets and configuration secured with Azure Key Vault
-- Q3 Impact Award, 2026
-
----
-
-### P R I N C I P L E S
-
-```text
-01   Requirements before tools
-02   Validate at every layer
-03   Pipelines that re-run safely
-04   No secrets in code
-```
+<table>
+<tr>
+<td width="40%"><b>Data Engineering Consultant</b></td>
+<td width="35%">Quisitive</td>
+<td width="25%" align="right"><sub>OCT 2026 — PRESENT</sub></td>
+</tr>
+<tr>
+<td colspan="3"><sub>End-to-end Microsoft Fabric solutions: Lakehouse, Data Factory pipelines and transformations. Client discovery, environment assessment and platform architecture.</sub></td>
+</tr>
+<tr>
+<td><b>Fabric Data Engineer II</b></td>
+<td>VSolvit</td>
+<td align="right"><sub>APR 2025 — OCT 2026</sub></td>
+</tr>
+<tr>
+<td colspan="3"><sub>Medallion Architecture in Fabric with notebooks. Automated OData API ingestion with Google Drive delivery. Secrets secured with Azure Key Vault. Q3 Impact Award, 2026.</sub></td>
+</tr>
+<tr>
+<td><b>Software Engineer I</b></td>
+<td>VSolvit</td>
+<td align="right"><sub>AUG 2024 — APR 2025</sub></td>
+</tr>
+<tr>
+<td colspan="3"><sub>Built database-backed applications on SQL Server. Developed an AI-powered HR assistant using embeddings and retrieval-augmented generation, reducing HR inquiries by 32%.</sub></td>
+</tr>
+</table>
 
 <br/>
 
