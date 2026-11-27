@@ -32,6 +32,24 @@ I partner with stakeholders to define data requirements, assess existing environ
 
 ---
 
+
+### E D U C A T I O N
+
+<table>
+<tr>
+<td width="40%"><b>M.S. Software Engineering</b></td>
+<td width="35%">Western Governors University</td>
+<td width="25%" align="right"><sub>2026</sub></td>
+</tr>
+<tr>
+<td><b>B.S. Software Engineering</b></td>
+<td>Western Governors University</td>
+<td align="right"><sub>2024</sub></td>
+</tr>
+</table>
+
+---
+
 ### C E R T I F I C A T I O N S
 
 <table>
