@@ -3,10 +3,9 @@
 <img
 width="100%"
 alt="Matthew Smith — Data Engineer"
-src="https://capsule-render.vercel.app/api?type=rect&height=180&color=000000&text=M%20A%20T%20T%20H%20E%20W%20%20%20%20S%20M%20I%20T%20H&fontColor=FFFFFF&fontSize=38&fontAlignY=44&desc=D%20A%20T%20A%20%20%20%20E%20N%20G%20I%20N%20E%20E%20R&descSize=13&descAlignY=66"
+src="https://capsule-render.vercel.app/api?type=rect&height=100&color=FFFFFF&text=M%20A%20T%20T%20H%20E%20W%20%20%20%20S%20M%20I%20T%20H&fontColor=000000&fontSize=30&fontAlignY=40&desc=D%20A%20T%20A%20%20%20%20E%20N%20G%20I%20N%20E%20E%20R&descSize=11&descAlignY=72"
 />
 
-<br/>
 
 <sub>
 MICROSOFT FABRIC &nbsp;&nbsp;·&nbsp;&nbsp; AZURE DATABRICKS &nbsp;&nbsp;·&nbsp;&nbsp; LAKEHOUSE ARCHITECTURE
@@ -20,33 +19,19 @@ MICROSOFT FABRIC &nbsp;&nbsp;·&nbsp;&nbsp; AZURE DATABRICKS &nbsp;&nbsp;·&nbsp
 
 </div>
 
-<br/>
-
 ---
 
 ### A B O U T
-
-Data engineer specializing in Microsoft Fabric. I design and build Lakehouse platforms and automated pipelines that turn raw operational data into trusted, analytics-ready datasets.
 
 I partner with stakeholders to define data requirements, assess existing environments, and deliver solutions built for quality, reliability, and maintainability.
 
 ---
 
-
 ### E D U C A T I O N
 
-<table>
-<tr>
-<td width="40%"><b>M.S. Software Engineering</b></td>
-<td width="35%">Western Governors University</td>
-<td width="25%" align="right"><sub>2026</sub></td>
-</tr>
-<tr>
-<td><b>B.S. Software Engineering</b></td>
-<td>Western Governors University</td>
-<td align="right"><sub>2024</sub></td>
-</tr>
-</table>
+<b>WESTERN GOVERNORS UNIVERSITY</b><br/>
+<sub>MASTER OF SCIENCE IN SOFTWARE ENGINEERING</sub><br/>
+<sub>BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING</sub>
 
 ---
 
@@ -81,8 +66,6 @@ I partner with stakeholders to define data requirements, assess existing environ
 
 <div align="center">
 <sub>Click any certificate to verify its validity directly with Microsoft.</sub>
-<br/><br/>
-<sub>ADDITIONAL — CompTIA Security+ &nbsp;·&nbsp; Certified SAFe® 6 Agilist</sub>
 </div>
 
 ---
